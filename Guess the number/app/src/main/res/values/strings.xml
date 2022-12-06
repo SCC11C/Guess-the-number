@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="numer_guess">Загадайте случайное число и напишите его диапозон</string>
+    <string name="game">Играть!</string>
+    <string name="yes">Да</string>
+    <string name="no">Нет</string>
+    <string name="restart">Играть снова</string>
+</resources>
